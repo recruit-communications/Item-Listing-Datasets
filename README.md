@@ -1,17 +1,20 @@
 # Item-Listing Datasets
 
-This repository contains datasets used and described in the draft paper:  
+This repository contains datasets used and described in the paper[^1]:  
 
-"Item Listing Optimization for E-commerce Websites based on Diversity"  
+[^1]:https://www.frontiersin.org/articles/10.3389/fcomp.2019.00002
+
+"Item Listing Optimization for E-commerce Websites Based on Diversity"  
 Authors: N. Nishimura, K. Tanahashi, K. Suganuma, M. J. Miyama, M. Ohzeki.  
-Paper: arXiv:1903.12478  
+Journal: Frontiers in Computer Science  
+DOI: 10.3389/fcomp.2019.00002  
 Contact: Naoki Nishimura (nishimura@r.recruit.co.jp)  
 
-This dataset contains popularity (bias) values and similarity (interaction) values for the top 10 accessed areas on the hotel reservation website Jalan[^1]. These values were estimated using the website's access log from the past six months, which includes the date and time the customer accessed the item list screen, the position of each item when the item list screen was accessed, and information about the hotel at which the customer made their reservation. 
+This dataset contains popularity (bias) values and similarity (interaction) values for the top 10 accessed areas on the hotel reservation website Jalan[^2]. These values were estimated using the website's access log from the past six months, which includes the date and time the customer accessed the item list screen, the position of each item when the item list screen was accessed, and information about the hotel at which the customer made their reservation. 
 
-[^1]:https://www.jalan.net/en/japan_hotels_ryokan/
+[^2]:https://www.jalan.net/en/japan_hotels_ryokan/
 
-If you use the datasets for your work, please consider citing this draft paper.
+If you use the datasets for your work, please consider citing the paper.
 
 -----
 Files:
